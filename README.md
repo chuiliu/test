@@ -1,6 +1,6 @@
 # test : just for learning
 
-*##标题
+##标题
 ######如果一点文字被定义为标题，只需要在这段文字前加 # 号即可
 
 # 一级标题
@@ -34,7 +34,10 @@
 
 ##超链接
 
+[Baidu] (http://baidu.com)
 
+## 图片
+![Mou_icon](http://mouapp.com/Mou_128.png)
 
 
 
