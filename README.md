@@ -33,12 +33,10 @@
 
 
 ##超链接
-######超链接格式[Baidu] (http://baidu.com)
 
 [Baidu] (http://baidu.com)
 
 ## 图片
-######图片格式![zhengchuiliu](https://avatars2.githubusercontent.com/u/12490286?v=3&s=460)
 ![zhengchuiliu](https://avatars2.githubusercontent.com/u/12490286?v=3&s=460)
 
 
@@ -63,9 +61,8 @@
 ######引用一小段行内代码片段，只需要用两个 ' 把代码片段包裹起来
 
 
-    ' console.log("Hello World");  '
+    'console.log("Hello World"); '
 
-'' console.log('Hello World'); ''
 
 	var say = "Hello World";
 	console.log(say);
