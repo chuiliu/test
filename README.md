@@ -37,7 +37,7 @@
 [Baidu] (http://baidu.com)
 
 ## 图片
-![zhengchuiliu](https://pic3.zhimg.com/666218a244e91668fbe92c6579ed4f02_l.jpg)
+![zhengchuiliu](https://avatars2.githubusercontent.com/u/12490286?v=3&s=460)
 
 
 ##粗体和斜体
@@ -60,8 +60,11 @@
 ##代码片段
 ######引用代码片段，只需要用两个 ' 把代码片段包裹起来
 
-'var str = "Hello World";
-console.log(str);'
+' 
+    var str = "Hello World";
+
+    console.log(str); 
+'
 
 
 ##分割线
